@@ -1,0 +1,355 @@
+{
+    "URL": "https://super.walmart.com.mx/content/abarrotes/pan-y-tortillas-empacados/120005_630010",
+    "categorias": [
+        {
+            "nombre": "Los más vendidos",
+            "productos": [
+                {
+                    "nombre_producto": "Pan Bimbo cero cero 610 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103046709L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$57.50",
+                    "precio_anterior": "$62.50"
+                },
+                {
+                    "nombre_producto": "Pan blanco Bimbo grande 680 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750100011120L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$47.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Pan integral Bimbo grande 680 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750100011145L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$55.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Pan para hot dogs Bimbo Medias noches 8 pzas de 42.5 g c/u",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750100011150L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$43.50",
+                    "precio_anterior": "$46.00"
+                },
+                {
+                    "nombre_producto": "Tostadas de maíz Salmas horneadas 23 paquetes de 3 pzas c/u",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00065848000125L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$57.00",
+                    "precio_anterior": "$60.00"
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Tía Rosa Tortillinas 561 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103048666L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$36.50",
+                    "precio_anterior": "$39.50"
+                },
+                {
+                    "nombre_producto": "Pan integral Oroweat multigrano 680 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750100037541L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$59.50",
+                    "precio_anterior": "$82.50"
+                },
+                {
+                    "nombre_producto": "Pan integral Oroweat 12 granos y semillas 680 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750100037529L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$62.00",
+                    "precio_anterior": "$82.50"
+                },
+                {
+                    "nombre_producto": "Pan Bimbo Multigrano 610 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750100013144L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$62.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Pan integral Wonder con ajonjolí 567 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103047840L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$52.00",
+                    "precio_anterior": "$64.50"
+                }
+            ]
+        },
+        {
+            "nombre": "Tortillas de Harina",
+            "productos": [
+                {
+                    "nombre_producto": "Tortillas de harina Tía Rosa Tortillinas 561 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103048666L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$36.50",
+                    "precio_anterior": "$39.50"
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Tía Rosa Tortillinas 306 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103049027L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$26.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Tía Rosa Tortillinas ligeras 306 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103047732L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$28.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Tía Rosa Tortillinas integrales 255 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103046146L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$26.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Mission estilo casero 500 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105491007L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$33.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas Great Value de harina de trigo 572g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750179166116L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$24.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Great Value estilo casero 312 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750179166115L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$15.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Great Value de trigo integral 312 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750179166561L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$17.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Tía Rosa Tortillinas burritos tamaño XL 500 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103042590L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$39.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Empanizador condimentado Great Value para pollo 265 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750179160306L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$27.00",
+                    "precio_anterior": "$28.50"
+                },
+                {
+                    "nombre_producto": "Empanizador condimentado Great Value para carne de res 265 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750179160307L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$27.00",
+                    "precio_anterior": "$28.50"
+                },
+                {
+                    "nombre_producto": "Tortillinas Tía Rosa con champiñón 255 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750303224890L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$35.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Pan plano Mission Paninas italiana 4 pzas",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105491044L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$28.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Tía Rosa Tortillinas 765 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103043042L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$46.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de harina Bimbo soft 340 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103043222L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$23.50",
+                    "precio_anterior": null
+                }
+            ]
+        },
+        {
+            "nombre": "Tortillas de Maíz",
+            "productos": [
+                {
+                    "nombre_producto": "Tortillas Susalia maíz con nopal 500 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750301354300L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$30.00",
+                    "precio_anterior": "$38.50"
+                },
+                {
+                    "nombre_producto": "Tortillas con nopal Señor Cactus original 500 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750300481801L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$32.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de maíz Ochoa 450 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750301051903L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$17.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas Nopalia de nopal orgánico y maíz de 450 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750300870893L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$32.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas Susalia delgaditas 625 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750301354376L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$20.00",
+                    "precio_anterior": "$25.00"
+                },
+                {
+                    "nombre_producto": "Tortillas de maíz Mission amarillas 755 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105495044L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$29.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas Azucena de maíz y nopal 420 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750046417922L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$30.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas Azucena de maíz azul con habanero 420 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750046417923L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$30.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas Azucena de chía y cúrcuma 420 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750046417924L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$30.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas Nopalia y linaza de 450 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750300870894L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$36.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas de tomate Tomatillas 454 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750046307430L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$36.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas Señor Cactus con coliflor y nopal 320 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750302487225L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$45.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortillas Susalia de coliflor delgaditas con 200 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750301354375L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$83.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortilla Natural Stem aguacate con chile 500 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750303260383L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$38.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tortilla Natural Stem jitomate guajillo 500 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750303260382L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$38.50",
+                    "precio_anterior": null
+                }
+            ]
+        },
+        {
+            "nombre": "Tostadas",
+            "productos": [
+                {
+                    "nombre_producto": "Tostadas de maíz Salmas horneadas 23 paquetes de 3 pzas c/u",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00065848000125L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$57.00",
+                    "precio_anterior": "$60.00"
+                },
+                {
+                    "nombre_producto": "Tostadas de maíz Salmas horneadas 8 paquetes de 3 pzas c/u",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00065848000110L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$28.00",
+                    "precio_anterior": "$32.50"
+                },
+                {
+                    "nombre_producto": "Tostadas Milpa Real onduladas 324 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750103047473L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$30.00",
+                    "precio_anterior": "$33.50"
+                },
+                {
+                    "nombre_producto": "Tostadas Great Value de maíz fritas estilo casero 360 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750179167029L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$28.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tostadas Mission norteñas amarillas 300 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105490238L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$25.50",
+                    "precio_anterior": "$31.50"
+                },
+                {
+                    "nombre_producto": "Tostadas de maíz Sanissimo horneadas 240 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00065848000127L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$34.50",
+                    "precio_anterior": "$37.00"
+                },
+                {
+                    "nombre_producto": "Tostadas de maíz Mission horneadas 224 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105490227L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$30.00",
+                    "precio_anterior": "$32.00"
+                },
+                {
+                    "nombre_producto": "Tostadas Great Value de maíz horneadas 237.5 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750179167030L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$27.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tostadas Great Value Ligeritas horneadas 144 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750179167031L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$22.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tostadas de maíz Sanissimo horneadas con nopal 220 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00065848000150L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$41.50",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tostadas de maíz Salmas horneadas con nopal 7 paquetes con 3 pzas c/u",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00065848000235L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$26.00",
+                    "precio_anterior": "$33.00"
+                },
+                {
+                    "nombre_producto": "Tostadas Susalia horneadas maíz con nopal 200 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750301354305L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$26.00",
+                    "precio_anterior": "$33.50"
+                },
+                {
+                    "nombre_producto": "Galletas Susalia 144 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750301354311L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$20.00",
+                    "precio_anterior": "$26.00"
+                },
+                {
+                    "nombre_producto": "Tostadas con nopal Señor Cactus horneadas 200 g",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750300481805L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$35.00",
+                    "precio_anterior": null
+                },
+                {
+                    "nombre_producto": "Tostadas de maíz azul Salmas horneadas 7 paquetes de 3 pzas c/u",
+                    "img_uri": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00065848000234L.jpg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+                    "precio_actual": "$26.00",
+                    "precio_anterior": "$33.00"
+                }
+            ]
+        }
+    ]
+}
